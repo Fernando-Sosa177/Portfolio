@@ -78,3 +78,16 @@ span{
     width: 45rem;
     margin: auto;
 }
+.div-icon{
+    display: flex;
+    justify-content: center;
+    gap:1.5rem
+}
+.icon-contact{
+    margin-block-start:3rem;
+    color: white;
+    font-size: 1.7rem;
+}
+.icon-contact:hover{
+    color: salmon;
+}
